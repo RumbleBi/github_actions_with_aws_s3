@@ -10,4 +10,5 @@ jobs:
   cicd:
     runs-on: ubuntu-latest
     steps:
-      - run: "echo 'RUN test'"
+      - name: "Introduce"
+        run: "echo 'RUN test'"
