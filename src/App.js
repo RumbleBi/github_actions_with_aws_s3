@@ -15,7 +15,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          변경됐어요!!!
+          CD 구축 완료!
         </a>
       </header>
     </div>
